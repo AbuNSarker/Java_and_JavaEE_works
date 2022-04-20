@@ -14,13 +14,13 @@
   <tr>
     <td>1.</td>
     <td>30 Days Hacker rank challenges and solutions  </td>
-    <td> Inprogress </td>
-    <td><a href="https://github.com/AbuNSarker/Java_and_JavaEE_works/tree/main/HackerRank_Java_30Days">[link]</a></td>
+    <td> In progress </td>
+    <td><a href="https://github.com/AbuNSarker/Java_and_JavaEE_works/tree/main/HackerRank_Java_30Days"> Solutions </a></td>
   </tr>
   <tr>
     <td>2.</td>
     <td>Hacker rank and Leetcode challenge </td>
-    <td>Inprogress</td>
+    <td>In progress</td>
     <td><a href="#">[link]</a></td>
   </tr>
   <tr>
@@ -34,8 +34,8 @@
 
 
 
-|  List  |                Problems                |                                         Solutions / Projects                                         |                                                        
-| :---: | :-------------------------------------: | :--------------------------------------------------------------------------------------: | 
-|   1   |              30 Days Hacker rank challenges and solutions               |         [Solutions](https://github.com/AbuNSarker/Java_and_JavaEE_works/tree/main/HackerRank_Java_30Days)        |
-|   2   |              Hacker rank and Leetcode challenge               |        [HackerRank](#) [LeetCode](#)
+|  List |                Problems                  |        Status       | Solution link        |                                                        
+| :---: | :--------------------------------------: | :-----------------: | :--------------------------------------------------------------------------------------: | 
+|   1   | 30 Days Hacker rank challenges and solutions|  In progress     | [Solutions](https://github.com/AbuNSarker/Java_and_JavaEE_works/tree/main/HackerRank_Java_30Days)        |
+|   2   |  Hacker rank and Leetcode challenge      |  In progress        |  [HackerRank](#) [LeetCode](#) |
 
