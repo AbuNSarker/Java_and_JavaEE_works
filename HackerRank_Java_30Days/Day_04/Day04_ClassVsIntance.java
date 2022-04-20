@@ -1,4 +1,5 @@
 package Day_04;
+//https://www.hackerrank.com/challenges/30-class-vs-instance/problem?isFullScreen=true
 
 import java.util.Scanner;
 
