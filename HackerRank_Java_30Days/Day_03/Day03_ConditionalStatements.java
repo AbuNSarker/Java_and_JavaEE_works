@@ -1,10 +1,7 @@
 package Day_03;
-// https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/30-conditional-statements/
 
 import java.io.*;
-import java.util.*;
-import java.util.regex.*;
-import java.util.stream.*;
 
 
 public class Day03_ConditionalStatements {

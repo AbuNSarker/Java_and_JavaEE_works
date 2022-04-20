@@ -1,7 +1,6 @@
 package Day_01;
-//https://www.hackerrank.com/challenges/30-data-types/problem?isFullScreen=true
+//https://www.hackerrank.com/challenges/30-data-types/
 
-import java.io.*;
 import java.util.*;
 
 public class Day01_DataTypes {

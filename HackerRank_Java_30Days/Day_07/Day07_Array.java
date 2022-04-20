@@ -1,5 +1,5 @@
 package Day_07;
-// https://www.hackerrank.com/challenges/30-arrays/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/30-arrays/problem
 
 import java.util.*;
 

@@ -1,7 +1,8 @@
 package Day_06;
 
-import java.io.*;
-import java.util.*;
+// https://www.hackerrank.com/challenges/30-loops/problem
+
+import java.util.Scanner;
 
 public class Day06_ReviewLoop {
 	public static void main(String[] args) {

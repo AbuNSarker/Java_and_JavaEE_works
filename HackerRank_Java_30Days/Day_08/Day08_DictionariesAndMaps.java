@@ -1,5 +1,5 @@
 package Day_08;
-// https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem
 
 import java.util.HashMap;
 import java.util.Map;

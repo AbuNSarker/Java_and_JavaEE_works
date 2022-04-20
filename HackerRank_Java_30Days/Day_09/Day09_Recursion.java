@@ -1,6 +1,6 @@
 package Day_09;
 
-// https://www.hackerrank.com/challenges/30-recursion/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/30-recursion/problem
 
 	import java.io.*;
 
